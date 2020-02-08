@@ -1,6 +1,8 @@
 # Checklist
 A simple checklist android application which allows users to create checklist and manage it efficiently
 
+You can find the app on the Play Store [here](https://play.google.com/store/apps/details?id=com.vaibhav.android.checklist).
+
  - Create checklist
  - Add items to the checklist
  - Edit items in the checklist
